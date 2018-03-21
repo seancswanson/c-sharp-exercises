@@ -10,8 +10,8 @@ namespae SecondConsoleProject
             double decimalpoint = 10.4;
             float afloat = 10.2;
             bool true = false;
-            string hello = "hello"
-            char h = "h"
+            string hello = "hello";
+            char h = "h";
         }
     }
 }
